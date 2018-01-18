@@ -1,0 +1,26 @@
+{
+  "name": "umbraco-backoffice-client",
+  "version": "1.0.0",
+  "description": "A HTTP client to retrieve Umbraco7 back office data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "umbraco",
+    "backoffice",
+    "api",
+    "client",
+    "rest",
+    "data"
+  ],
+  "author": "Hugh Hoang <hugh.hoang@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "browser-cookies": "^1.2.0"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.5"
+  }
+}
